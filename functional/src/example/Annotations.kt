@@ -1,6 +1,5 @@
 package example
 import kotlin.reflect.full.*
-import kotlin.test.assertTrue
 
 // my custom annotation
 annotation class ImAPlant
