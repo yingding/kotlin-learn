@@ -28,5 +28,8 @@ hs_err_pid*
 # no .idea folder
 .idea/
 # no proj file
-*.iml
+# *.iml
+
+# no kotlin generated out putfile
+out/
 
